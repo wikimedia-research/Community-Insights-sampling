@@ -1,75 +1,75 @@
-Sample group code	Audience	Home wiki	Active on enwiki	Sample size count (minimum)	Sample size count (+ 50%)	Population (N) (Neil)	List created? (Neil)	Mass message user list 	Qualtrics link	Invitation sent	Reminder sent	No. Responses	Response rate (response/ sample size)
-01-AEAR	AE	arwiki	0	150	225								
-02-AEZH	AE	zhwiki	0	150	225								
-03-AEFR	AE	frwiki	0	150	225								
-04-AEES	AE	eswiki	0	375	563								
-05-AERU	AE	ruwiki	0	150	225								
-06-AEDE	AE	dewiki	0	150	225								
-07-AEPT	AE	ptwiki	0	375	563								
-08-AENL	AE	nlwiki	0	150	225								
-09-AEIT	AE	itwiki	0	150	225								
-10-AEJA	AE	jawiki	0	150	225								
-11-AEEN	AE	enwiki	0	300	450								
-12-AEME	AE	other MENA Wikipedias	0	225	338								
-13-AESSA	AE	other SSA Wikipedias	0	275	413								
-14-AECE	AE	other CEE Wikipedias	0	350	525								
-15-AEAI	AE	other ASIA Wikipedias	0	150	225								
-16-AEWE	AE	other WEUR Wikipedias	0	150	225								
-17-AECM	AE	commonswiki	0	600	900								
-18-AEWD	AE	wikidatawiki	0	600	900								
-19-AEOP	AE	other	0	1200	1800								
-20-AEARe	AE	arwiki	1	100	150								
-21-AEZHe	AE	zhwiki	1	100	150								
-22-AEFRe	AE	frwiki	1	100	150								
-23-AEESe	AE	eswiki	1	100	150								
-24-AERUe	AE	ruwiki	1	100	150								
-25-AEDEe	AE	dewiki	1	100	150								
-26-AEPTe	AE	ptwiki	1	100	150								
-27-AENLe	AE	nlwiki	1	100	150								
-28-AEITe	AE	itwiki	1	100	150								
-29-AEJAe	AE	jawiki	1	100	150								
-31-AEMEe	AE	other MENA Wikipedias	1	n/a	n/a								
-32-AESSAe	AE	other SSA Wikipedias	1	275	413								
-33-AECEe	AE	other CEE Wikipedias	1	n/a	n/a								
-34-AEAIe	AE	other ASIA Wikipedias	1	n/a	n/a								
-35-AEWEe	AE	other WEUR Wikipedias	1	n/a	n/a								
-36-AECMe	AE	commonswiki	1	n/a	n/a								
-37-AEWDe	AE	wikidatawiki	1	n/a	n/a								
-38-AEOPe	AE	other projects	1	n/a	n/a								
-39-VAEAR	VAE	arwiki	0	150	225								
-40-VAEZH	VAE	zhwiki	0	150	225								
-41-VAEFR	VAE	frwiki	0	150	225								
-42-VAEES	VAE	eswiki	0	375	563								
-43-VAERU	VAE	ruwiki 	0	150	225								
-44-VAEDE	VAE	dewiki	0	150	225								
-45-VAEPT	VAE	ptwiki	0	375	563								
-46-VAENL	VAE	nlwiki	0	150	225								
-47-VAEIT	VAE	itwiki	0	150	225								
-48-VAEJA	VAE	jawiki	0	150	225								
-49-VAEEN	VAE	enwiki	0	300	450								
-50-VAEME	VAE	other MENA Wikipedias	0	225	338								
-51-VAESSA	VAE	other SSA Wikipedias	0	275	413								
-52-VAECE	VAE	other CEE Wikipedias	0	350	525								
-53-VAEAI	VAE	other ASIA Wikipedias	0	150	225								
-54-VAEWE	VAE	other WEUR Wikipedias	0	150	225								
-55-VAECM	VAE	commonswiki	0	600	900								
-56-VAEWD	VAE	wikidatawiki	0	600	900								
-57-VAEOP	VAE	other	0	1200	1800								
-58-VAEARe	VAE	arwiki	1	100	150								
-59-VAEZHe	VAE	zhwiki	1	100	150								
-60-VAEFRe	VAE	frwiki	1	100	150								
-61-VAEESe	VAE	eswiki	1	100	150								
-62-VAERUe	VAE	ruwiki 	1	100	150								
-63-VAEDEe	VAE	dewiki	1	100	150								
-64-VAEPTe	VAE	ptwiki	1	100	150								
-65-VAENLe	VAE	nlwiki	1	100	150								
-66-VAEITe	VAE	itwiki	1	100	150								
-67-VAEJAe	VAE	jawiki	1	100	150								
-69-VAEMEe	VAE	other MENA Wikipedias	1	n/a	n/a								
-70-VAESSAe	VAE	other SSA Wikipedias	1	275	413								
-71-VAECEe	VAE	other CEE Wikipedias	1	n/a	n/a								
-72-VAEAIe	VAE	other ASIA Wikipedias	1	n/a	n/a								
-73-VAEWEe	VAE	other WEUR Wikipedias	1	n/a	n/a								
-74-VAECMe	VAE	commonswiki	1	n/a	n/a								
-75-VAEWDe	VAE	wikidatawiki	1	n/a	n/a								
-76-VAEOPe	VAE	other	1	n/a	n/a								
+code	audience	home_wiki	also_active_enwiki	min_sample	sample	population
+01-AEAR	AE	arwiki	0	150	225	
+02-AEZH	AE	zhwiki	0	150	225	
+03-AEFR	AE	frwiki	0	150	225	
+04-AEES	AE	eswiki	0	375	563	
+05-AERU	AE	ruwiki	0	150	225	
+06-AEDE	AE	dewiki	0	150	225	
+07-AEPT	AE	ptwiki	0	375	563	
+08-AENL	AE	nlwiki	0	150	225	
+09-AEIT	AE	itwiki	0	150	225	
+10-AEJA	AE	jawiki	0	150	225	
+11-AEEN	AE	enwiki	0	300	450	
+12-AEME	AE	mena	0	225	338	
+13-AESSA	AE	ssa	0	275	413	
+14-AECE	AE	cee	0	350	525	
+15-AEAI	AE	asia	0	150	225	
+16-AEWE	AE	weur	0	150	225	
+17-AECM	AE	commonswiki	0	600	900	
+18-AEWD	AE	wikidatawiki	0	600	900	
+19-AEOP	AE	other	0	1200	1800	
+20-AEARe	AE	arwiki	1	100	150	
+21-AEZHe	AE	zhwiki	1	100	150	
+22-AEFRe	AE	frwiki	1	100	150	
+23-AEESe	AE	eswiki	1	100	150	
+24-AERUe	AE	ruwiki	1	100	150	
+25-AEDEe	AE	dewiki	1	100	150	
+26-AEPTe	AE	ptwiki	1	100	150	
+27-AENLe	AE	nlwiki	1	100	150	
+28-AEITe	AE	itwiki	1	100	150	
+29-AEJAe	AE	jawiki	1	100	150	
+31-AEMEe	AE	mena	1	0	0	
+32-AESSAe	AE	ssa	1	275	413	
+33-AECEe	AE	cee	1	0	0	
+34-AEAIe	AE	asia	1	0	0	
+35-AEWEe	AE	weur	1	0	0	
+36-AECMe	AE	commonswiki	1	0	0	
+37-AEWDe	AE	wikidatawiki	1	0	0	
+38-AEOPe	AE	other projects	1	0	0	
+39-VAEAR	VAE	arwiki	0	150	225	
+40-VAEZH	VAE	zhwiki	0	150	225	
+41-VAEFR	VAE	frwiki	0	150	225	
+42-VAEES	VAE	eswiki	0	375	563	
+43-VAERU	VAE	ruwiki 	0	150	225	
+44-VAEDE	VAE	dewiki	0	150	225	
+45-VAEPT	VAE	ptwiki	0	375	563	
+46-VAENL	VAE	nlwiki	0	150	225	
+47-VAEIT	VAE	itwiki	0	150	225	
+48-VAEJA	VAE	jawiki	0	150	225	
+49-VAEEN	VAE	enwiki	0	300	450	
+50-VAEME	VAE	mena	0	225	338	
+51-VAESSA	VAE	ssa	0	275	413	
+52-VAECE	VAE	cee	0	350	525	
+53-VAEAI	VAE	asia	0	150	225	
+54-VAEWE	VAE	weur	0	150	225	
+55-VAECM	VAE	commonswiki	0	600	900	
+56-VAEWD	VAE	wikidatawiki	0	600	900	
+57-VAEOP	VAE	other	0	1200	1800	
+58-VAEARe	VAE	arwiki	1	100	150	
+59-VAEZHe	VAE	zhwiki	1	100	150	
+60-VAEFRe	VAE	frwiki	1	100	150	
+61-VAEESe	VAE	eswiki	1	100	150	
+62-VAERUe	VAE	ruwiki 	1	100	150	
+63-VAEDEe	VAE	dewiki	1	100	150	
+64-VAEPTe	VAE	ptwiki	1	100	150	
+65-VAENLe	VAE	nlwiki	1	100	150	
+66-VAEITe	VAE	itwiki	1	100	150	
+67-VAEJAe	VAE	jawiki	1	100	150	
+69-VAEMEe	VAE	mena	1	0	0	
+70-VAESSAe	VAE	ssa	1	275	413	
+71-VAECEe	VAE	cee	1	0	0	
+72-VAEAIe	VAE	asia	1	0	0	
+73-VAEWEe	VAE	weur	1	0	0	
+74-VAECMe	VAE	commonswiki	1	0	0	
+75-VAEWDe	VAE	wikidatawiki	1	0	0	
+76-VAEOPe	VAE	other	1	0	0	
