@@ -20,8 +20,8 @@ from (
       max(month) as latest
     from staging.editor_month
     where
-      month >= '2015-12-01' and
-      month < '2016-12-01' and
+      month >= '2016-01-01' and
+      month < '2017-01-01' and
       local_user_id != 0
     group by user_name, wiki
     order by user_name asc, edits desc
@@ -34,7 +34,7 @@ from (
   having 
     global_edits >= 30 and
     max(bot_flag) = 0 and
-    max(latest) >= '2016-06-01'
+    max(latest) >= '2016-07-01'
 ) global
 left join (
   select
@@ -44,8 +44,8 @@ left join (
     if(wiki = 'wikidatawiki', sum(edits) * 0.1, sum(edits)) as edits
   from staging.editor_month
   where
-    month >= '2015-12-01' and
-    month < '2016-12-01'
+    month >= '2016-01-01' and
+    month < '2017-01-01'
   group by user_name, wiki
   order by user_name asc, edits desc
 ) by_wiki_2
