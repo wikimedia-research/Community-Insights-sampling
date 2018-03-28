@@ -7,7 +7,7 @@ Ciao! La Fondazione Wikimedia chiede il tuo parere con un sondaggio. Vorremmo sa
 
 È possibile trovare maggiori informazioni sul progetto in [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|questa pagina]]. Il sondaggio è ospitato da un servizio terzo ed è regolamentato dalla seguente [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|informativa sulla privacy]] (in inglese). Visita la nostra [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|pagina delle domande più frequenti]] per avere maggiori informazioni sul sondaggio. Se necessiti ulteriore aiuto o se non vuoi ricevere future comunicazioni su questo sondaggio, invia una email attraverso la funzionalità InviaEmail a [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]] per essere rimosso dalla lista.
 
-Grazie! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Grazie!
 </div>|ja=<div class="plainlinks mw-content-ltr" lang="ja" dir="ltr">
 
 == ウィキメディアンとしてのご経験とご意見を世界的調査でシェアしてください ==
@@ -18,7 +18,7 @@ Grazie! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)
 本調査のさらなる情報が[[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|プロジェクトページ]]にあります。ウィキメディア財団があなたのような編集者を手助けするのにあなたのフィードバックがどのように役立つかご覧ください。 この調査は第三者機関が運営しており、[[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|個人情報に関する宣言]]（
 英語）に準拠します。 この調査に関するさらなる情報は、私たちの[[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|よくある質問と回答のページ]]をご覧ください。 <span class="mw-translate-fuzzy">さらにお手伝いを必要とする場合、または本調査に関する今後のご連絡の停止 (オプトアウト) をご希望の場合は、[[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]]までウィキメールをご送信ください。ご希望なら連絡リストから除外します。</span>
 
-皆さまのご協力に心から感謝いたします。 --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+皆さまのご協力に心から感謝いたします。
 </div>|fr=<div class="plainlinks mw-content-ltr" lang="fr" dir="ltr">
 
 == Partagez votre expérience de wikimédien·ne dans cette enquête générale ==
@@ -28,7 +28,7 @@ Bonjour ! La Fondation Wikimédia vous demande votre avis dans une enquête. Nou
 
 Vous pouvez trouver davantage d’informations concernant cette enquête [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|sur la page du projet]] et voir comment vos retours aident la Fondation Wikimédia à prendre en charge des contributeurs comme vous. Cette enquête est hébergée par un service tiers et régie par cette [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|déclaration de confidentialité]] (en anglais). Visitez notre [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|page des questions fréquentes]] pour trouver plus d’informations sur cette enquête. Si vous avez besoin d’aide supplémentaire, ou désirez vous désabonner des communications futures au sujet de cette enquête, envoyez un courrier électronique via la fonctionnalité EmailUser à [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]] pour être supprimé·e de la liste.
 
-Merci ! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Merci !
 </div>|pl=<div class="plainlinks mw-content-ltr" lang="pl" dir="ltr">
 
 == Podziel się swoim doświadczeniem i przekaż opinię jako Wikimedianin w globalnej ankiecie ==
@@ -38,7 +38,7 @@ Witaj! Wikimedia Foundation prosi Cię o wyrażenie opinii w ankiecie. Chcemy wi
 
 Możesz dowiedzieć się więcej na temat tej ankiety [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|na stronie projektu]]. Zobacz jak Twoje zdanie pomaga Wikimedia Foundation wspierać edytujących takich jak Ty. Ta ankieta jest hostowana przez zewnętrzny serwis i podlega [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|temu oświadczeniu prywatności]] (po angielsku). Odwiedź naszą [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|stronę z najczęściej zadawanymi pytaniami]], aby znaleźć więcej informacji na temat tego badania. Jeżeli potrzebujesz dodatkowej pomocy lub chcesz wypisać się z przyszłych prób komunikacji, wyślij e-mail poprzez funkcję wysyłania e-maili do użytkownika, do [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]], aby usunął Cię z listy.
 
-Dziękujemy! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Dziękujemy!
 </div>|uk=<div class="plainlinks mw-content-ltr" lang="uk" dir="ltr">
 
 == Поділіться своїм досвідом і відгуком вікімедійця у цьому глобальному опитуванні ==
@@ -48,7 +48,7 @@ Dziękujemy! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez 
 
 Ви можете дізнатися більше про це опитування [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|на сторінці проекту]] і подивитися, як ваш відгук допомагає Фонду Вікімедіа підтримувати таких редакторів, як ви. Це опитування розміщене у третьої сторони і підлягає їхньому [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|положенню про конфіденційність]] (англійською). Будь ласка, зайдіть на нашу [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|сторінку частих запитань]], щоб дізнатися про це опитування більше. Якщо вам потрібна додаткова допомога або ж ви хочете відмовитися від подальших повідомлень щодо цього опитування, напишіть [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]], скориставшись можливістю «написати листа користувачеві», і вас буде вилучено зі списку.
 
-Дякуємо! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Дякуємо!
 </div>|nl=<div class="plainlinks mw-content-ltr" lang="nl" dir="ltr">
 
 == Deel je feedback en je ervaringen als Wikimediabewerker in een wereldwijde enquête ==
@@ -58,7 +58,7 @@ Hallo! De Wikimedia Foundation vraagt om je feedback in een enquête. We willen 
 
 Meer informatie over deze enquête is beschikbaar [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|op de projectpagina]]; daar lees je ook hoe je feedback de Wikimedia Foundation helpt om bewerkers zoals jijzelf te helpen. De enquête wordt gehost door een derde partij; ons [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|privacy statement]] (Engels) is van toepassing. Op de pagina met [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|veelgestelde vragen]] vind je meer informatie over deze enquête. Als je hulp nodig hebt, of als je je wil afmelden van toekomstige berichten over deze enquête, stuur dan een e-mail naar [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]] via de 'E-mail een gebruiker' functie.
 
-Hartelijk dank! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Hartelijk dank!
 </div>|ru=<div class="plainlinks mw-content-ltr" lang="ru" dir="ltr">
 
 == Всемирный опрос для участников проектов Викимедиа — поделитесь своим мнением и опытом ==
@@ -69,7 +69,7 @@ Hartelijk dank! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalv
 
 [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|На странице проекта]] вы можете узнать о нём подробнее и увидеть, как ваши ответы и отзывы помогают Фонду Викимедиа поддерживать таких редакторов, как вы. Этот опрос проводится с участием сторонней компании и регулируется их [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|политикой конфиденциальности и персональной информации]] (на английском языке). Дополнительную информацию об этом опросе вы можете найти на нашей [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|странице Часто задаваемых вопросов]]. Если вам необходима дополнительная помощь или если вы хотите перестать получать сообщения, связанные с этим опросом, отправьте письмо [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]] через вики-почту (функция «Письмо участнику»).
 
-Спасибо! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Спасибо!
 </div>|de=<div class="plainlinks mw-content-ltr" lang="de" dir="ltr">
 
 == Teile deine Erfahrungen und gib uns Feedback als Wikimedianer in dieser globalen Umfrage ==
@@ -79,7 +79,7 @@ Hallo! Die Wikimedia Foundation braucht dein Feedback in einer Umfrage. Wir möc
 
 Du kannst mehr Informationen über diese Umfrage [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|auf der Projektseite]] finden und sehen, wie dein Feedback der Wikimedia Foundation hilft, Benutzer wie dich zu unterstützen. Die Umfrage wird von einem externen Anbieter durchgeführt, es gelten diese [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|Datenschutzbestimmungen]] (englisch). Besuche unsere [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|FAQ-Seite]] um mehr Informationen zu dieser Umfrage zu erhalten. Wenn du zusätzliche Hilfe benötigst oder dich von zukünftigen Mitteilungen über diese Umfrage abmelden möchtest, sende eine E-Mail über die EmailUser-Funktion an [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]], um dich aus der Liste zu entfernen.
 
-Danke! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Danke!
 </div>|pt=<div class="plainlinks mw-content-ltr" lang="pt" dir="ltr">
 
 == Compartilhe suas experiências e comentários como wikimedista na nossa nova pesquisa ==
@@ -89,7 +89,7 @@ Olá! A Fundação Wikimedia gostaria de seus comentários numa pesquisa. Querem
 
 Você pode encontrar mais informações sobre essa pesquisa [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|na página do projeto]] e ver como seus comentários ajudam a Wikimedia Foundation a dar suporte a editores como você. <span class="mw-translate-fuzzy">Essa pesquisa está sendo organizada por um serviço de terceiros, e administrada por esta [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|declaração de privacidade]] (em inglês).</span> Por favor, visite nossa [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|página de perguntas frequentes]]  (em inglês) para saber mais sobre essa pesquisa. Para ajuda adicional ou para cancelar o recebimento de futuras mensagens sobre essa pesquisa, envie um email através do recurso EmailUser por [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]].
 
-Obrigado! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Obrigado!
 </div>|#default=<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
 
 == Share your experience and feedback as a Wikimedian in this global survey ==
@@ -99,7 +99,7 @@ Hello! The Wikimedia Foundation is asking for your feedback in a survey. We want
 
 You can find more information about this survey [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|on the project page]] and see how your feedback helps the Wikimedia Foundation support editors like you. This survey is hosted by a third-party service and governed by this [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|privacy statement]] (in English). Please visit our [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|frequently asked questions page]] to find more information about this survey. If you need additional help, or if you wish to opt-out of future communications about this survey, send an email through EmailUser feature to [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]] to remove you from the list.
 
-Thank you! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+Thank you!
 </div>|ar=<div class="plainlinks mw-content-rtl" lang="ar" dir="rtl">
 
 == شارك خبراتك وآرائك وملاحظاتك معنا بصفتك ويكيميدي في هذا الاستبيان العالمي ==
@@ -109,7 +109,7 @@ Thank you! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (W
 
 يمكنك أن تطلع على المزيد من المعلومات عن هذا الاستبيان [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|على صفحة المشروع]] ورؤية كيف تساعد آرائك وملاحظاتك مؤسسة ويكيميديا في تقديم المساندة إلى المحررين الآخرين. يستضيف هذا الاستبيان جهة أخرى مقدمة للخدمات ولديها [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|بيان خصوصية]] ينظم عملها (باللغة الإنجليزية) يرجى زيارة [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|صفحة الأسئلة الشائعة]] لتتعرف على المزيد من المعلومات عن هذا الاستبيان. لو احتجت للمزيد من المساعدة، أو لو رغبت في عدم تلقي رسائل أخرى في المستقبل تتعلق بهذا الاستبيان، يمكنك أن ترسل رسالة بريد إلكتروني مستخدما خاصية إرسال رسالة بريد إلكتروني إلى مستخدم إلى [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]] كي يرفع اسمك من القائمة.
 
-شكرا لك! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+شكرا لك!
 </div>|zh=<div class="plainlinks mw-content-ltr" lang="zh" dir="ltr">
 
 == 在这全域调查中分享您作为一名维基人的见解和意见 ==
@@ -119,7 +119,7 @@ Thank you! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (W
 
 您可以[[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|在项目页面]]找到更多有关此调查的信息，并查看您的反馈如何帮助维基媒体基金会支持像您一样的编辑者。 此调查由第三方网站托管，并受此[[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|隐私声明]]（只有英语版）制约。 如果对这次调查有疑惑的，请参阅我们的[[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|常见问题解疑页面]]。 如果您需要其他帮助或者希望退訂此次调查的訊息，请透過電郵用戶（EmailUser）功能发电子邮件到[[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]]。
 
-十分感谢您的参与！ --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+十分感谢您的参与！
 </div>|es=<div class="plainlinks mw-content-ltr" lang="es" dir="ltr">
 
 == Comparta su experiencia y retroalimente como wikimedista en esta encuesta global ==
@@ -129,5 +129,5 @@ Thank you! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (W
 
 Puede encontrar más información sobre [[m:Special:MyLanguage/Community_Engagement_Insights/About_CE_Insights|este proyecto]] y ver como su retroalimentación ayuda la Fundación apoyar editores como usted. Esta encuesta está a cargo de un servidor externo y regida por esta [[:foundation:Community_Engagement_Insights_2018_Survey_Privacy_Statement|declaración de privacidad]]. Por favor visite nuestra [[m:Special:MyLanguage/Community_Engagement_Insights/Frequently_asked_questions|página de preguntas frecuentes]] para obtener más información sobre esta encuesta. Si necesita ayuda adicional o si quisiera excluirse de futuras comunicaciones sobre esta encuesta, por favor envíe un e-mail por la herramienta EmailUser a [[:m:Special:EmailUser/EGalvez_(WMF)|EGalvez (WMF)]]
 
-¡Gracias! --[[:m:User:EGalvez (WMF)|EGalvez (WMF)]]  ([[:m:User talk:EGalvez (WMF)|talk]]) 18:07, 10 January 2017 (UTC)
+¡Gracias!
 </div>}} ~~~~~
