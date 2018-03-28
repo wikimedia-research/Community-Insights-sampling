@@ -1,1 +1,7 @@
 secrets/
+data/interim/
+
+# Temp files
+throttle.ctrl
+apicache/
+__pycache__/
