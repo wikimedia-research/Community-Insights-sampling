@@ -1,4 +1,4 @@
-proj_name	proj_key	proj_group
+project_name	project_key	project_group
 Afar Wikipedia	aawiki	meaf_wps
 Abkhazian Wikipedia	abwiki	meaf_wps
 Acehnese Wikipedia	acewiki	asia_wps
@@ -92,29 +92,32 @@ Gilaki Wikipedia	glkwiki	meaf_wps
 Galician Wikipedia	glwiki	weur_wps
 Guarani Wikipedia	gnwiki	other
 Gova Konknni Wikipedia	gomwiki	asia_wps
+Gorontalo Wikipedia	gorwiki	asia_wps
 Gothic Wikipedia	gotwiki	weur_wps
-Gujarati Wikipedia	guwiki	asia_wps
+Gujarati Wikipedia	guwiki	sasia_wps
 Manx Wikipedia	gvwiki	weur_wps
 Hakka Wikipedia	hakwiki	asia_wps
 Hausa Wikipedia	hawiki	meaf_wps
 Hawaiian Wikipedia	hawwiki	asia_wps
 Hebrew Wikipedia	hewiki	meaf_wps
 Fiji Hindi Wikipedia	hifwiki	asia_wps
-Hindi Wikipedia	hiwiki	asia_wps
+Hindi Wikipedia	hiwiki	sasia_wps
 Hiri Motu Wikipedia	howiki	asia_wps
 Croatian Wikipedia	hrwiki	cee_wps
 Upper Sorbian Wikipedia	hsbwiki	cee_wps
 Haitian Wikipedia	htwiki	other
 Hungarian Wikipedia	huwiki	cee_wps
 Armenian Wikipedia	hywiki	meaf_wps
+Western Armenian	hywwiki	meaf_wps
 Herero Wikipedia	hzwiki	meaf_wps
 Interlingua Wikipedia	iawiki	other
-Indonesian Wikipedia	idwiki	asia_wps
+Indonesian Wikipedia	idwiki	malay_wps
 Interlingue Wikipedia	iewiki	other
 Igbo Wikipedia	igwiki	meaf_wps
 Sichuan Yi Wikipedia	iiwiki	asia_wps
 Inupiak Wikipedia	ikwiki	other
 Ilokano Wikipedia	ilowiki	asia_wps
+Ingush	inhwiki	cee_wps
 Ido Wikipedia	iowiki	other
 Icelandic Wikipedia	iswiki	weur_wps
 Italian Wikipedia	itwiki	itwiki
@@ -136,7 +139,7 @@ Greenlandic Wikipedia	klwiki	other
 Khmer Wikipedia	kmwiki	asia_wps
 Kannada Wikipedia	knwiki	asia_wps
 Komi-Permyak Wikipedia	koiwiki	cee_wps
-Korean Wikipedia	kowiki	asia_wps
+Korean Wikipedia	kowiki	kowiki
 Karachay-Balkar Wikipedia	krcwiki	cee_wps
 Kanuri Wikipedia	krwiki	meaf_wps
 Ripuarian Wikipedia	kshwiki	weur_wps
@@ -150,6 +153,7 @@ Latin Wikipedia	lawiki	weur_wps
 Lak Wikipedia	lbewiki	cee_wps
 Luxembourgish Wikipedia	lbwiki	weur_wps
 Lezgian Wikipedia	lezwiki	cee_wps
+Lingua Franca Nova	lfnwiki	other
 Luganda Wikipedia	lgwiki	meaf_wps
 Ligurian Wikipedia	lijwiki	weur_wps
 Limburgish Wikipedia	liwiki	weur_wps
@@ -160,7 +164,7 @@ Northern Luri Wikipedia	lrcwiki	meaf_wps
 Latgalian Wikipedia	ltgwiki	cee_wps
 Lithuanian Wikipedia	ltwiki	cee_wps
 Latvian Wikipedia	lvwiki	cee_wps
-Maithili Wikipedia	maiwiki	asia_wps
+Maithili Wikipedia	maiwiki	sasia_wps
 Banyumasan Wikipedia	map_bmswiki	asia_wps
 Moksha Wikipedia	mdfwiki	cee_wps
 Malagasy Wikipedia	mgwiki	meaf_wps
@@ -169,12 +173,12 @@ Marshallese Wikipedia	mhwiki	asia_wps
 Minangkabau Wikipedia	minwiki	asia_wps
 Maori Wikipedia	miwiki	asia_wps
 Macedonian Wikipedia	mkwiki	cee_wps
-Malayalam Wikipedia	mlwiki	asia_wps
+Malayalam Wikipedia	mlwiki	sasia_wps
 Mongolian Wikipedia	mnwiki	asia_wps
 Moldovan Wikipedia	mowiki	cee_wps
 Hill Mari Wikipedia	mrjwiki	cee_wps
 Marathi Wikipedia	mrwiki	asia_wps
-Malay Wikipedia	mswiki	asia_wps
+Malay Wikipedia	mswiki	malay_wps
 Maltese Wikipedia	mtwiki	weur_wps
 Muscogee Wikipedia	muswiki	other
 Mirandese Wikipedia	mwlwiki	weur_wps
@@ -205,7 +209,7 @@ Ossetian Wikipedia	oswiki	cee_wps
 Pangasinan Wikipedia	pagwiki	asia_wps
 Kapampangan Wikipedia	pamwiki	asia_wps
 Papiamentu Wikipedia	papwiki	other
-Punjabi Wikipedia	pawiki	asia_wps
+Punjabi Wikipedia	pawiki	sasia_wps
 Picard Wikipedia	pcdwiki	weur_wps
 Pennsylvania German Wikipedia	pdcwiki	weur_wps
 Palatinate German Wikipedia	pflwiki	weur_wps
@@ -228,6 +232,7 @@ Rusyn Wikipedia	ruewiki	cee_wps
 Russian Wikipedia	ruwiki	ruwiki
 Kinyarwanda Wikipedia	rwwiki	meaf_wps
 Sakha Wikipedia	sahwiki	asia_wps
+Santali	satwiki	asia_wps
 Sanskrit Wikipedia	sawiki	asia_wps
 Sicilian Wikipedia	scnwiki	weur_wps
 Scots Wikipedia	scowiki	weur_wps
@@ -235,6 +240,7 @@ Sardinian Wikipedia	scwiki	weur_wps
 Sindhi Wikipedia	sdwiki	asia_wps
 Northern Sami Wikipedia	sewiki	weur_wps
 Sango Wikipedia	sgwiki	meaf_wps
+Shan	shnwiki	asia_wps
 Serbo-Croatian Wikipedia	shwiki	cee_wps
 Simple English Wikipedia	simplewiki	weur_wps
 Sinhalese Wikipedia	siwiki	asia_wps
@@ -253,7 +259,7 @@ Sundanese Wikipedia	suwiki	asia_wps
 Swedish Wikipedia	svwiki	weur_wps
 Swahili Wikipedia	swwiki	meaf_wps
 Silesian Wikipedia	szlwiki	cee_wps
-Tamil Wikipedia	tawiki	asia_wps
+Tamil Wikipedia	tawiki	sasia_wps
 Tulu Wikipedia	tcywiki	asia_wps
 Tetum Wikipedia	tetwiki	asia_wps
 Telugu Wikipedia	tewiki	asia_wps
@@ -275,12 +281,12 @@ Tahitian Wikipedia	tywiki	asia_wps
 Udmurt Wikipedia	udmwiki	cee_wps
 Uyghur Wikipedia	ugwiki	asia_wps
 Ukrainian Wikipedia	ukwiki	cee_wps
-Urdu Wikipedia	urwiki	asia_wps
+Urdu Wikipedia	urwiki	sasia_wps
 Uzbek Wikipedia	uzwiki	asia_wps
 Venetian Wikipedia	vecwiki	weur_wps
 Vepsian Wikipedia	vepwiki	cee_wps
 Venda Wikipedia	vewiki	meaf_wps
-Vietnamese Wikipedia	viwiki	asia_wps
+Vietnamese Wikipedia	viwiki	viwiki
 West Flemish Wikipedia	vlswiki	weur_wps
 Volapük Wikipedia	vowiki	other
 Waray-Waray Wikipedia	warwiki	asia_wps

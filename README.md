@@ -21,3 +21,14 @@ Therefore, our strategy is a [stratified random sample](https://en.wikipedia.org
 
 In all cases, edits counts are adjusted by treating each Wikidata edits as a 1/10 of a normal edit, in order to account for the greater granularity of Wikidata edits. This prevents counterintuitive choices of Wikidata as some editors' home wiki.
 
+
+## Changes for the 2018-19 survey
+
+We reused the same sampling strategy to select a sample of currently active contributors with the following additional changes:
+
+* Combined the two highest bins: 1200-3499 and 3500+ edit bins into a single 1200+ bin.
+* Pulled 450 users from a new South Asian language stratum (containing Hindi, Punjabi, Malayam, Maithili, Gujarati, Tamil, Urdu). Project group stratum labeled sasia_wps.
+* Pulled 150 users from a new Vietnamese language stratum. Project group stratum labeled vi_wiki.
+* Pulled 150 users from a new Malay language stratum (containing Malay and Indonesian). Project group stratum labeled malay_wps.
+* Pulled 150 users from a new Korean language stratum. Project group stratum labeled ko_wiki.
+* Added the Programs and Events Dashboard users to the final table. 

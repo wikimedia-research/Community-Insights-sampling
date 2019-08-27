@@ -1,5 +1,6 @@
 secrets/
 data/interim/
+.ipynb_checkpoints/
 
 # Temp files
 throttle.ctrl
