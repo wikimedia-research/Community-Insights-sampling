@@ -17,7 +17,7 @@ For the discussion leading up to our choices, see [task T188999](https://phabric
 
 Second, the editors’s home wiki, which we define as the project where they have made the most edits during the past year. This will allow us to learn more about how answers differ across different project communities and to [oversample](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis) certain smaller communities to ensure we have sufficient statistical power to make inferences about their results.
 
-Since many projects have few editors, only 16 of the largest have the own groups. Most of the remaining Wikipedias are combined into 6 regional groups and all the remaining projects go into a single `other` group.
+Since many projects have few editors, only 16 of the largest have the own groups. Most of the remaining Wikipedias are combined into 6 regional groups and all the remaining projects go into a single `other` group. The sister projects are categorized into the same regional groups as the respective languages' Wikipedia.
 
 Therefore, our strategy is a [stratified random sample](https://en.wikipedia.org/wiki/Stratified_sampling) with 5 × 23 = 115 strata.
 
