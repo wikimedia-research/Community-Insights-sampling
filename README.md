@@ -1,3 +1,8 @@
+**Note:** 
+* This repository has been archived, and moved to [gitlab.wikimedia.org](https://gitlab.wikimedia.org/repos/research/community-insights-sampling).
+* Please [contact the Wikimedia Foundation's Research team](https://research.wikimedia.org/contact.html) for any queries.
+
+----
 This repository contains the code used to draw a sample of Wikimedia project contributors for the Wikimedia Foundation's annual [Community Insights survey](https://meta.wikimedia.org/wiki/Community_Insights).
 
 We want to learn about **recent, recurring active editors** on Wikimedia projects. Therefore, we define our population as users who were [active editors](https://meta.wikimedia.org/wiki/Research:Active_editor) in at least 2 of the past 3 months: registered, non-bot editors with at least 5 content edits across all Wikimedia content project.
